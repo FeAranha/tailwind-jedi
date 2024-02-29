@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="dark:bg-slate-900 p-8 bg-slate-100 dark:text-slate-50 text-slate-900 h-screen flex flex-col items-center text-center">
-      <div className="max-w-2xl">
+      <div className="max-w-app">
         <h1 className="font-bold text-3xl sm:text-5xl lg:text-6xl">
           Rapidly build modern websites without ever leaving your HTML.
         </h1>
