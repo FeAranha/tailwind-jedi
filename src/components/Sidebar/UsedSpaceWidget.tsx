@@ -1,8 +1,8 @@
 export function UsedSpaceWidget() {
   return (
-    <div className="flex flex-col gap-4 rounded-lg bg-violet-50 px-4 py-5 dark:bg-slate-600">
+    <div className="flex flex-col gap-4 rounded-lg bg-violet-50 px-4 py-5 dark:bg-slate-800">
       <div className="space-y-1">
-        <span className="text-sm/5 font-medium text-violet-400">
+        <span className="text-sm/5 font-medium text-violet-600">
           Used space
         </span>
         <p className="text-sm/5 text-violet-300">
