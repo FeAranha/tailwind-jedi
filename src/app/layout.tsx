@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="antialiased">
-      <body className={inter.className}>
+      <body className={`dark:bg-slate-900 ${inter.className}`}>
         <div className="grid min-h-screen grid-cols-app dark:bg-slate-900">
           <Sidebar />
           <main className="px-4 pb-12 pt-8">{children}</main>
