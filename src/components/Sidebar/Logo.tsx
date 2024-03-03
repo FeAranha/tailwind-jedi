@@ -205,7 +205,7 @@ export function Logo() {
           </clipPath>
         </defs>
       </svg>
-      <span className="dark:text-zinc-100">Untitled UI</span>
+      <span>Untitled UI</span>
     </strong>
   )
 }
